@@ -83,7 +83,7 @@ cd FishMaster
 
 ### 直接安装
 
-从 [Releases](https://github.com/yourusername/FishMaster/releases) 页面下载最新 APK 直接安装到手机。
+从 [Releases](https://github.com/emberee/FishMaster/releases/tag/V1.0.0) 页面下载最新 APK 直接安装到手机。
 
 ## 📦 项目结构
 
